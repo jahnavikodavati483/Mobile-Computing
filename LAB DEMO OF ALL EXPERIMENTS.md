@@ -25,7 +25,25 @@ https://www.figma.com/make/jxiWAKhbGOsNDGtJwMTzub/Exp4-mobile-network-protocol-s
 https://www.figma.com/make/Qbv77H9v5HtzJqTCYqG6la/Mobile-App-Wireframe-Design?t=qxyVAvjpP2cSukBX-20&fullscreen=1
 
 
-
 ## Experiment 6 : Use Figma to simulate a handoff scenario in a mobile network and visualize the process.
 
 https://www.figma.com/make/wiHV7CHFZaiPFEy3EeH8NO/Simulate-Mobile-Handoff-Process?t=0N4Qgiu1U4MRdhSU-20&fullscreen=1
+
+
+## Experiment 7 : Develop a dashboard prototype in Figma displaying performance for a cellular system.
+
+https://www.figma.com/make/rnoc9Wt2ILgwUaGLAEawmg/Dashboard-prototype-for-performance?t=LVobRZJNFSzYPWcY-20&fullscreen=1
+
+
+## Experiment 8 : Create an infographic in Figma explaining the concept of Public Land Mobile Network
+
+
+
+## Experiment 9 : Develop a user interface prototype for a GSM service using Figma.
+
+
+
+## Experiment 10 : Create a visual representation in Figma showcasing the differences between various multiple access techniques.
+
+
+
