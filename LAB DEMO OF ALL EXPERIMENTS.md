@@ -47,6 +47,7 @@ https://www.figma.com/make/0hJXShDMdFayvHKxFgUfwG/GSM-Service-UI-Prototype?t=gwh
 
 ## Experiment 10 : Create a visual representation in Figma showcasing the differences between various multiple access techniques.
 
+https://www.figma.com/make/PaUF6KyKa2733UGCjKt1Xm/Visualize-Multiple-Access-Techniques?t=IOZPlPDjaWH50Lnt-20&fullscreen=1
 
 
 ## Experiment 11 : Design a wireframe for a mobile application that incorporates security measures using Figma.
