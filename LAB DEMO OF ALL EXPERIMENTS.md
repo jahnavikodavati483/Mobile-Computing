@@ -48,3 +48,40 @@ https://www.figma.com/make/mEYoyP2DmogD9CQOjUhPcL/Dashboard-prototype-review?t=0
 
 
 
+## Experiment 11 : Design a wireframe for a mobile application that incorporates security measures using Figma.
+
+
+
+## Experiment 12 : Use Figma to create an interactive diagram illustrating the evolution from 1G to 5G.
+
+
+
+## Experiment 13: Design an infographic in Figma comparing mobile communication and mobile computing
+
+
+
+## Experiment 14 : Develop a flowchart in Figma explaining the operation of General Packet Radio Service
+
+
+
+## Experiment 15 : Design an interactive presentation in Figma explaining the issues in mobile IP.
+
+
+
+## Experiment 16 : Develop a wireframe for a mobile application that addresses challenges related to ad hoc wireless networks using Figma.
+
+
+
+## Experiment 17: Create a visual representation in Figma illustrating the operation of proactive and reactive routing protocols in mobile IP.
+
+
+
+## Experiment 18 : Use Figma to create an infographic comparing and contrasting the architectures of Android, iOS, and Windows.
+
+
+
+## Experiment 19 : Develop a user interface prototype for an Android application using Figma.
+
+
+
+## Experiment 20 : Design a wireframe in Figma for a mobile application showcasing power management approaches.
