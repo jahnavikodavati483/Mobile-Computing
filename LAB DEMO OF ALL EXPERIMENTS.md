@@ -56,10 +56,12 @@ https://www.figma.com/make/PaUF6KyKa2733UGCjKt1Xm/Visualize-Multiple-Access-Tech
 
 ## Experiment 12 : Use Figma to create an interactive diagram illustrating the evolution from 1G to 5G.
 
+https://www.figma.com/make/nact6uCfDiD4co8Mdwg7Wg/Interactive-5G-Evolution-Diagram?t=NGgQsLPy3SLS9C4c-20&fullscreen=1
 
 
 ## Experiment 13: Design an infographic in Figma comparing mobile communication and mobile computing
 
+https://www.figma.com/make/qmA6PGDaLVo8UmQbscsQZv/Design-infographic-comparison?t=6voPMsynYAnP26Gc-20&fullscreen=1
 
 
 ## Experiment 14 : Develop a flowchart in Figma explaining the operation of General Packet Radio Service
