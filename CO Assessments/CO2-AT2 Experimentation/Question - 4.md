@@ -9,4 +9,4 @@ Analyze:
 - Security vulnerabilities during mobility.
 - Possible design improvements to increase reliability.
 
-## Figma Prototype : https://www.figma.com/file/your-figma-link
+## Figma Prototype : https://www.figma.com/make/RyY8vsw8rjaukzFBsP7mo5/Smart-Healthcare-Mobile-IP-Design?t=D6F1BF7QNMwYaVOD-20&fullscreen=1
