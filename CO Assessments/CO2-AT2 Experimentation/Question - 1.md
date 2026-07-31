@@ -10,4 +10,4 @@ Analyze the communication process by identifying:
 - The effect of node mobility on communication performance.
 - Possible improvements to reduce latency.
 
-## Figma Prototype : https://www.figma.com/file/your-figma-link
+## Figma Prototype : https://www.figma.com/make/tSWdeNcvoXcafmPfFFbuam/Mobile-IP-Communication-Workflow?t=g2l7Kyf55LyjV7oC-20&fullscreen=1
