@@ -11,4 +11,4 @@ Analyze the architectures by comparing:
 5.Mobility support.
 6.Suitable application scenarios.
 
-## Figma Prototype : https://www.figma.com/file/your-figma-link
+## Figma Prototype : https://www.figma.com/make/oWMgAGi7svhr71Vf45N74z/Comparative-Network-Architecture-Diagram?t=NBINiLOnhmjHC3WZ-20&fullscreen=1
