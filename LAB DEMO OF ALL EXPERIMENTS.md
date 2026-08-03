@@ -89,12 +89,14 @@ https://www.figma.com/make/pjekwjSxFxtCk0XtTc2L0H/Create-Architecture-Infographi
 
 ## Experiment 19 : Develop a user interface prototype for an Android application using Figma.
 
+https://www.figma.com/make/HnHQtp0bWHAf2MNuAsEIsQ/Android-app-UI-prototype?t=bxTRGdgXAZMDTfmp-20&fullscreen=1
 
 ## Experiment 20 : Design a wireframe in Figma for a mobile application showcasing power management approaches.
 
 
 ## Experiment 21 : Design a mobile app interface that prioritizes user connectivity and convenience.
 
+https://www.figma.com/make/SD7hndDCxHfZfj4fg3WzXm/Mobile-App-Interface-Design?t=swYI2P9oKHE1Gbnf-20&fullscreen=1
 
 ## Experiment 22 : Create wireframes illustrating how localization features can be integrated into a mobile app
 
