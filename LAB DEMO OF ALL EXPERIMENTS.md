@@ -129,6 +129,7 @@ https://www.figma.com/make/C8BLpZWzMitcY3GCTK8Vhu/Design-multimedia-app-wirefram
 
 ## Experiment 29 : Create wireframes for a collaborative mobile app using Figma, showcasing the peer-to-peer interactions in real-time.
 
+https://www.figma.com/make/hqUG6ishb7ZYpVfIPefaue/Collaborative-Mobile-App-Wireframes?t=KcSppjuBTR4sU3wE-20&fullscreen=1
 
 ## Experiment 30 : Develop wireframes for a visually rich mobile app with optimized graphics and UI performance, using Figma to showcase the design principles.
 
