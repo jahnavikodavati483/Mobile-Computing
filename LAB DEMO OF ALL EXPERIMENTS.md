@@ -125,6 +125,7 @@ https://www.figma.com/make/I65yBJxDy6l60N50Qma139/Interactive-Presentation-Desig
 
 ## Experiment 28 : Design a wireframe in Figma for a multimedia-rich mobile app, incorporating elements from both Core Video and Core Media frameworks.
 
+https://www.figma.com/make/C8BLpZWzMitcY3GCTK8Vhu/Design-multimedia-app-wireframe?t=LpJmY77I4J4EaxrO-20&fullscreen=1
 
 ## Experiment 29 : Create wireframes for a collaborative mobile app using Figma, showcasing the peer-to-peer interactions in real-time.
 
