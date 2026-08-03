@@ -133,3 +133,4 @@ https://www.figma.com/make/hqUG6ishb7ZYpVfIPefaue/Collaborative-Mobile-App-Wiref
 
 ## Experiment 30 : Develop wireframes for a visually rich mobile app with optimized graphics and UI performance, using Figma to showcase the design principles.
 
+https://www.figma.com/make/luIHhEW4Zw557pbvGz1rLn/Create-mobile-app-wireframes?t=wBkEQNX0pttgh37O-20&fullscreen=1
