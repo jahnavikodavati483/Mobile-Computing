@@ -121,6 +121,7 @@ https://www.figma.com/make/Fn6FDCA0Czbqmx4DjZYP8D/Design-mobile-app-wireframes?t
 
 ## Experiment 27 : 27.Use Figma to create an interactive presentation comparing the Core Video framework in iOS and the multimedia framework in Android.
 
+https://www.figma.com/make/I65yBJxDy6l60N50Qma139/Interactive-Presentation-Design?t=BsX02Q6wzW4w9j2b-20&fullscreen=1
 
 ## Experiment 28 : Design a wireframe in Figma for a multimedia-rich mobile app, incorporating elements from both Core Video and Core Media frameworks.
 
