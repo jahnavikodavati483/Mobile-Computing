@@ -52,7 +52,7 @@ https://www.figma.com/make/PaUF6KyKa2733UGCjKt1Xm/Visualize-Multiple-Access-Tech
 
 ## Experiment 11 : Design a wireframe for a mobile application that incorporates security measures using Figma.
 
-
+https://www.figma.com/make/qtP9Vj0csyIUFiIToSlX7E/Bank-app-wireframe-design?t=KcSppjuBTR4sU3wE-20&fullscreen=1
 
 ## Experiment 12 : Use Figma to create an interactive diagram illustrating the evolution from 1G to 5G.
 
