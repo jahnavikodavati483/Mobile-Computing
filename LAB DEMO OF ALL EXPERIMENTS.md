@@ -85,6 +85,7 @@ https://www.figma.com/make/xavPu3h5Crd7PxfYOWnuHP/Untitled?t=DjrbyjOEdBQwRqQT-20
 
 ## Experiment 18 : Use Figma to create an infographic comparing and contrasting the architectures of Android, iOS, and Windows.
 
+https://www.figma.com/make/pjekwjSxFxtCk0XtTc2L0H/Create-Architecture-Infographic?t=Uo5J1XEGBoM0bhzx-20&fullscreen=1
 
 ## Experiment 19 : Develop a user interface prototype for an Android application using Figma.
 
