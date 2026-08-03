@@ -116,6 +116,7 @@ https://www.figma.com/make/liesotzkeEdiZrcFc29OXz/Untitled?t=7Er7xMz3bPVoUtPK-20
 
 ## Experiment 26 : Design wireframes for a mobile app showcasing data replication techniques.
 
+https://www.figma.com/make/Fn6FDCA0Czbqmx4DjZYP8D/Design-mobile-app-wireframes?t=drX8BN1rDlHIEvYl-20&fullscreen=1
 
 ## Experiment 27 : 27.Use Figma to create an interactive presentation comparing the Core Video framework in iOS and the multimedia framework in Android.
 
