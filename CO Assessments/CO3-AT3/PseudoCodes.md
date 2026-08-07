@@ -1,39 +1,68 @@
-1. Design a health and self-care mobile app that helps users maintain mental wellbeing with meditations
-and exercises. This case study talks you through the design process of creating a user- friendly mobile
-app. Design UI with the following requirements.
-a. User Login
-b. Register
-c. Health Routine Blogs
-d. Self-Care Blogs
+## 1. Health and Self-Care Mobile App
 
-Figma link : https://www.figma.com/make/pBLOtYexVBJEfsl810nFHb/Health-and-Self-Care-App?t=etdlXghqpYs6mEzr-20&fullscreen=1
+**Description:**
 
-2. This is an intelligent job assistant that helps users find their ideal job and get to all the way to signing a
-contract faster and more easily. Design UI with the following requirements.
-a. User Login
-b. Register Subscription
-c. Personal Detail
-d. Resume Upload
-e. Choosing Job
+Design a health and self-care mobile app that helps users maintain mental wellbeing through meditation sessions and daily wellness exercises.
 
-Figma link : https://www.figma.com/make/sX7SvOK0gv2yYYJhOLbUbm/Job-Assistant-UI-Design?t=etdlXghqpYs6mEzr-20&fullscreen=1
+### Features
+- User Login
+- Register
+- Health Routine Blogs
+- Self-Care Blogs
 
-3. This is a mobile app that can help people get parking slots easily even when they travel beyond their
-normal routes. Design UI with the following requirements.
-a. UserLogin
-b. Register Count of Empty Parking
-c. Free Parking Slots Display
-d. Booking Parking Slots
+### Figma Design
+https://www.figma.com/make/pBLOtYexVBJEfsl810nFHb/Health-and-Self-Care-App?t=etdlXghqpYs6mEzr-20&fullscreen=1
 
-Figma link : https://www.figma.com/make/pdy574Xbb3eLACDoHBxy6F/Parking-Slot-Finder-App?t=6IVXGFyI8gCFOtPq-20&fullscreen=1
+---
 
-4. Design a mobile app for Online Body Fitness tips and videos for a good daily routine. Contains the
-following requirements.
-User Login
-a. Register
-b. Fitness Blog
-c. Diet Planner
-d. Fitness Videos
-e. Payment and Subscription
+## 2. Intelligent Job Assistant Mobile App
 
-Figma link :https://www.figma.com/make/XUHuagJw3WIxiRM0o2FvmC/Online-Fitness-App-Design?t=6IVXGFyI8gCFOtPq-20&fullscreen=1
+**Description:**
+
+Design an intelligent job assistant application that helps users find suitable jobs, create professional profiles, upload resumes, and complete the hiring process efficiently.
+
+### Features
+- User Login
+- Register Subscription
+- Personal Details
+- Resume Upload
+- Choose Job
+
+### Figma Design
+https://www.figma.com/make/sX7SvOK0gv2yYYJhOLbUbm/Job-Assistant-UI-Design?t=etdlXghqpYs6mEzr-20&fullscreen=1
+
+---
+
+## 3. Parking Slot Finder Mobile App
+
+**Description:**
+
+Design a mobile application that helps users locate available parking spaces, view free slots, and reserve parking in advance.
+
+### Features
+- User Login
+- Register Empty Parking Count
+- Display Free Parking Slots
+- Book Parking Slot
+
+### Figma Design
+https://www.figma.com/make/pdy574Xbb3eLACDoHBxy6F/Parking-Slot-Finder-App?t=6IVXGFyI8gCFOtPq-20&fullscreen=1
+
+---
+
+## 4. Online Fitness Mobile App
+
+**Description:**
+
+Design a mobile application that provides fitness guidance, diet planning, workout videos, and premium subscription services for maintaining a healthy lifestyle.
+
+### Features
+- User Login
+- Register
+- Fitness Blog
+- Diet Planner
+- Fitness Videos
+- Payment & Subscription
+
+### Figma Design
+https://www.figma.com/make/XUHuagJw3WIxiRM0o2FvmC/Online-Fitness-App-Design?t=6IVXGFyI8gCFOtPq-20&fullscreen=1
